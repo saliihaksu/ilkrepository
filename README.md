@@ -1,3 +1,3 @@
 # ilkrepository
 
-Git & Github projesindeki ilk yükleme.
+Git & Github projesindeki ilk yükleme.# ilkrepository
