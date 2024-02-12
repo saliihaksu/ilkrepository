@@ -23,7 +23,11 @@ function App() {
         </button>
         <p>HOŞGELDİNİZ</p>
         <p>
+<<<<<<< HEAD
         Archi's Academy GitHub Kursuna Hoşgeldiniz!
+=======
+          Archi's Academy GitHub Kursuna Hoşgeldiniz!
+>>>>>>> main
         </p>
       </div>
       <p className="read-the-docs">
